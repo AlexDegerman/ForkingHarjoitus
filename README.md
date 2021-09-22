@@ -1,2 +1,2 @@
 # ForkingHarjoitus
-commit
+commit commit
